@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface PersDao extends JpaRepository<Person, Integer> {
+
 }

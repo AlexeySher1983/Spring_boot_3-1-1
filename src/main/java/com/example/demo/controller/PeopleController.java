@@ -8,7 +8,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import com.example.demo.model.Person;
 import com.example.demo.servise.PersServ;
-
+//not used
 import jakarta.validation.Valid;
 
 @Controller
